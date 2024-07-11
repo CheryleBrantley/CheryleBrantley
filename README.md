@@ -1,7 +1,14 @@
 - Hi, I’m @CheryleBrantley
-- I am interested in Cyber Security, Robotics & Mechatronics Engineering, and AI Robots;
-- currently learning Cyber Security;
-- and looking to collaborate with teachers and students online.
+- 
+- I am interested in:
+-
+- - Cyber Security Engineering;
+- - Robotics & Mechatronics Engineering;
+- - Machine Learning Engineering (Python);
+- - and Software Engineering (Artificial Intelligence);
+-
+- I am certified in Cyber Security
+- and looking to collaborate with like-minded individuals.
 
 <!---
 CheryleBrantley/CheryleBrantley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
